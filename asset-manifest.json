@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71f51372.css",
+    "main.js": "/static/js/main.3c96142f.js",
+    "static/media/bgl.png": "/static/media/bgl.9e1c756a4c11624fe5de.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/texnika.png": "/static/media/texnika.203f3df2539b8e4b9a68.png",
+    "static/media/brendi.png": "/static/media/brendi.f2bc3613bb3f53cfe32f.png",
+    "static/media/tovari.png": "/static/media/tovari.6b83d26a19c7bc4c59ac.png",
+    "static/media/kivi.png": "/static/media/kivi.c9ad43815402d3a6169b.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.71f51372.css.map": "/static/css/main.71f51372.css.map",
+    "main.3c96142f.js.map": "/static/js/main.3c96142f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f51372.css",
+    "static/js/main.3c96142f.js"
+  ]
+}
